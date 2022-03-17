@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997abe17-13e3-482a-b4ac-f45c310df575" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/com/programmers/29_3jin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programmers/30_min_wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programmers/ne_jeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programmers/realTest_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programmers/미해결_realTest_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programmers/미해결_sample_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/square_root.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/square_root.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programmers/25_square_root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programmers/25_square_root.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/jin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/jin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/starMake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/programmers/starMake.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +54,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="애플리케이션.jin">
-    <configuration name="Hasshad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programmers.Hasshad" />
+  <component name="RunManager" selected="애플리케이션.marathon">
+    <configuration name="marathon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmers.marathon" />
       <module name="TAESOON" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="back_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programmers.back_num" />
+    <configuration name="ne_jeck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmers.ne_jeck" />
       <module name="TAESOON" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programmers.jin" />
+    <configuration name="realTest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmers.realTest_2" />
       <module name="TAESOON" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="min_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programmers.min_num" />
+    <configuration name="sample_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmers.sample_test" />
       <module name="TAESOON" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="square_root" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programmers.square_root" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmers.test" />
       <module name="TAESOON" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.jin" />
-        <item itemvalue="애플리케이션.Hasshad" />
-        <item itemvalue="애플리케이션.min_num" />
-        <item itemvalue="애플리케이션.square_root" />
-        <item itemvalue="애플리케이션.back_num" />
+        <item itemvalue="애플리케이션.marathon" />
+        <item itemvalue="애플리케이션.realTest_2" />
+        <item itemvalue="애플리케이션.ne_jeck" />
+        <item itemvalue="애플리케이션.test" />
+        <item itemvalue="애플리케이션.sample_test" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +160,10 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
