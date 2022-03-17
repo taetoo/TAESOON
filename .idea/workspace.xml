@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997abe17-13e3-482a-b4ac-f45c310df575" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/com/programmers/30_min_wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programmers/ne_jeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programmers/realTest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programmers/미해결_realTest_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/programmers/미해결_sample_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/jin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/jin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAESOON/com/programmers/starMake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/programmers/starMake.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
