@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="997abe17-13e3-482a-b4ac-f45c310df575" name="Changes" comment="Changes" />
+    <list default="true" id="997abe17-13e3-482a-b4ac-f45c310df575" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/programmers/미해결_realTest_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programmers/미해결_realTest_2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="애플리케이션.marathon">
+  <component name="RunManager" selected="애플리케이션.row_cilumn_plus">
     <configuration name="marathon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.programmers.marathon" />
       <module name="TAESOON" />
@@ -84,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sample_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programmers.sample_test" />
+    <configuration name="row_cilumn_plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programmers.row_cilumn_plus" />
       <module name="TAESOON" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.marathon" />
+        <item itemvalue="애플리케이션.row_cilumn_plus" />
         <item itemvalue="애플리케이션.realTest_2" />
+        <item itemvalue="애플리케이션.marathon" />
         <item itemvalue="애플리케이션.ne_jeck" />
         <item itemvalue="애플리케이션.test" />
-        <item itemvalue="애플리케이션.sample_test" />
       </list>
     </recent_temporary>
   </component>
